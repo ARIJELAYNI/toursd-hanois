@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tours d\'Hanoi</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_demo">DemoActivity</string>
+    <string name="title_activity_commencer_jeu">CommencerJeuActivity</string>
+    <string name="title_activity_instructions">Instructions</string>
+    <string name="instruct1">- Les trois tours sont numérotées comme suit : celui à droite : 3 et
+         celui au centre : 2 et celui à gauche : 1.</string>
+    <string name="instruct2">- Le but est de déplacer tous les disques de la tour 1 (à gauche)
+         vers la tour 3 (à droite) avec le moindre des mouvements.</string>
+    <string name="instruct3">- Vous ne pouvez placer qu\'un disque à la fois et pour le placer cliquez sur le, vous aurez 
+        alors les numéros des tours sur lesquelles vous pouvez le déplacer ou "mouvement impossible" 
+        le cas écheant. Ensuite, si le mouvement est possible vous cliquez sur le numéro de la tour 
+        sur laquelle vous voulez effectuer le déplacement.</string>
+    <string name="instruct4">- Vous ne pouvez déplacer que les disques situés aux sommets des trois tours
+	     et ce sont toujours les plus petits.</string>
+    <string name="instruct5">- Vous ne pouvez déplacer un disque sur un autre disque inférieur en dimensions.</string>
+    <string name="title_activity_jouer">JouerActivity</string>
+
+</resources>

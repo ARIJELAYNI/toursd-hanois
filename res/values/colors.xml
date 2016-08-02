@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ma_couleur">#33476A</color> 
+    <color name="mon_spinner_couleur"> #0E83CD</color>
+    <color name="blanc"> #FFFFFF </color>
+</resources>
